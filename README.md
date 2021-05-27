@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trishna21
 - 👀 I’m interested in ...web development and ux design.
-- 🌱 I’m currently learning ...BE in IT branch 
+- 🌱 I’m currently learning ...Data analytics. 
 - 💞️ I’m looking to collaborate on ...web development projects .
 
 
